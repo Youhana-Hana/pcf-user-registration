@@ -33,7 +33,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 @WebMvcTest(ApisController.class)
 public class ApisControllerTest {
 
-    private final String ApiKey = "cMGdJYk85UX44fyQEVYa-7ivvN6FM3XHNq4PVIdhI";
+    private final String ApiKey = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXx";
 
     @Autowired
     private MockMvc mvc;
