@@ -1,0 +1,5 @@
+#!/bin/sh
+
+set -e -x
+
+ln -s ~/src/lean-signup/git_hooks/pre-commit ../.git/hooks/pre-commit
